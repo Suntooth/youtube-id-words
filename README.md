@@ -1,4 +1,1 @@
-# I FOUND SOME RUDE WORDS ON YOUTUBE
-here they are
-
-this is just a repo so I can host this stuff on GH pages
+This is my personal fork of DevDetour's Youtube ID word finder, which will eventually add on IDs that I've scraped myself once I think I have enough. The gh-pages branch is probably what you want to look at, not the master branch.
